@@ -36,7 +36,7 @@ cd []
 python main.py
 ```
 
-# 4. Utilizar o programa
+# 4. Utilizando o programa
 É necessário utilizar o menu para acessar as funcionalidades: cadastro de login e senha;
 cadastro das figurinhas; informar a figurinha desejada;
 encontrar outro(s) jogador(es) que tenham a figurinha desejada;
