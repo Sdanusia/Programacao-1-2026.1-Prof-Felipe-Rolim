@@ -34,6 +34,7 @@ cd []
 
 # 3. Executar o programa
 python main.py
+```
 
 # 4. Utilizar o programa
 É necessário utilizar o menu para acessar as funcionalidades: cadastro de login e senha;
