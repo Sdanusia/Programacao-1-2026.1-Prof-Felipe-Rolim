@@ -36,7 +36,11 @@ cd []
 python main.py
 
 # 4. 
-É necessário utilizar o menu para acessar as funcionalidades: cadastro de login e senha; cadastro das figurinhas; informar a figurinha desejada; encontrar outro(s) jogador(es) que tenham a figurinha desejada; solicitar a troca e oferecendo outra figurinha; verificar as mensagens recebidas de outros jogadores e aceitar ou não as propostas de troca. 
+É necessário utilizar o menu para acessar as funcionalidades: cadastro de login e senha;
+cadastro das figurinhas; informar a figurinha desejada;
+encontrar outro(s) jogador(es) que tenham a figurinha desejada;
+solicitar a troca e oferecendo outra figurinha;
+verificar as mensagens recebidas de outros jogadores e aceitar ou não as propostas de troca. 
 
 ## 👨‍🎓 Integrantes do Grupo
 * **[Mariene Silva]** 
