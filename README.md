@@ -42,6 +42,5 @@ python main.py
 * **[Mariene Silva]** 
 * **[Shirley Gomes]** 
 
-
 ## 👨‍🏫 Orientação
-* Prof. **[Nome do Professor]**
+* Prof. **Felipe Cordeiro Rolim**
