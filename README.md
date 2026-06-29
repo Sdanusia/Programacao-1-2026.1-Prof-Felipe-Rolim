@@ -44,8 +44,8 @@ solicitar a troca e oferecendo outra figurinha;
 verificar as mensagens recebidas de outros jogadores e aceitar ou não as propostas de troca. 
 
 ## 👨‍🎓 Integrantes do Grupo
-* **[Mariene Silva]** 
-* **[Shirley Gomes]** 
+* **Mariene Silva** 
+* **Shirley Gomes** 
 
 ## 👨‍🏫 Orientação
 * Prof. **Felipe Cordeiro Rolim**
