@@ -15,6 +15,8 @@ Este projeto consiste em um sistema desenvolvido em Python para facilitar a troc
 - **Gerenciamento de Inventário:** Cadastro de figurinhas repetidas.
 - **Match de Trocas:** Algoritmo que cruza os dados dos usuários, aponta quem tem a figurinha que o outro precisa e envia mensagem com proposta.
 - **Menu Interativo:** Interface via linha de comando (terminal) simples e intuitiva para navegação do usuário.
+-
+- **OBS:** As funções foram organizadas em arquivos separados por categorias, deixando o código principal mais "limpo e oirganizado".
 
 ## Pré-requisitos
 Para rodar este projeto, você precisa apenas do **Python 3.14** instalado em sua máquina, ou utilizar o VS Code, extraindo as pastas do arquivo .zip 
@@ -36,7 +38,7 @@ Programacao-1-2026.1-Prof-Felipe-Rolim
 python main.py
 ```
 
-# Utilizando o programa
+## Utilizando o programa
 É necessário utilizar o menu para acessar as funcionalidades: cadastro de login e senha;
 cadastro das figurinhas; informar a figurinha desejada;
 encontrar outro(s) jogador(es) que tenham a figurinha desejada;
