@@ -49,4 +49,4 @@ verificar as mensagens recebidas de outros jogadores e aceitar ou não as propos
 * **Shirley Gomes** 
 
 ## Orientador
-* Prof. **Felipe Cordeiro Rolim**
+* Prof. **Felipe Rolim Cordeiro**
