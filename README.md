@@ -30,7 +30,7 @@ Siga os passos abaixo no seu terminal ou prompt de comando:
  clone https://github.com/Sdanusia/Programacao-1-2026.1-Prof-Felipe-Rolim.git
 
 # 2. Entrar na pasta do projeto
-cd []
+Programacao-1-2026.1-Prof-Felipe-Rolim
 
 # 3. Executar o programa
 python main.py
@@ -47,5 +47,5 @@ verificar as mensagens recebidas de outros jogadores e aceitar ou não as propos
 * **Mariene Silva** 
 * **Shirley Gomes** 
 
-## 👨‍🏫 Orientação
+## 👨‍🏫 Orientador
 * Prof. **Felipe Cordeiro Rolim**
